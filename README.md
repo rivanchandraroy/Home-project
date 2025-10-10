@@ -8,11 +8,19 @@ To address this gap, this project focuses on continuous monitoring of indoor and
 ![image alt](https://github.com/rivanchandraroy/Home-project/blob/main/Monthly-Seasonal%20Pattern.png?raw=true)
 Our Work and Methodology
 •	Established a low-cost air quality monitoring network across 10 residential locations in Dhaka, equipped with indoor and outdoor sensors.
+
 •	Conducted continuous monitoring of PM₂.₅, Black Carbon (BC), and Ultrafine Particles (UFPs) for 1.5 years to capture long-term trends.
+
 •	Performed data curation and quality control, including completeness checks, calibration, and removal of outliers to ensure reliable datasets.
+
 •	Carried out statistical analyses such as temporal variation, seasonal comparison, and correlation studies to identify pollution patterns.
+
 •	Estimated infiltration factors to evaluate how outdoor pollutants influence indoor air quality.
 •	Utilized Python programming and libraries like Pandas, NumPy, Matplotlib, SciPy, and Seaborn for data processing, visualization, and modeling.
+
 •	Developed spatiotemporal models to understand pollution dynamics across different residential areas.
+
 •	Aimed to provide a data-driven understanding of indoor–outdoor air interactions and contribute to sustainable urban air quality management in Dhaka.
+
+![image alt](https://github.com/rivanchandraroy/Home-project/blob/main/Corelation%20of%20indoor%20and%20outdoor%20PM2.5.png?raw=true)
 
