@@ -5,7 +5,7 @@ Despite the focus on outdoor pollution, indoor air quality (IAQ) remains a negle
 
 To address this gap, this project focuses on continuous monitoring of indoor and outdoor particulate matter across multiple residential locations in Dhaka. Using a low-cost sensor network. Seasonal variation and diurnal variation provide evidence about pollutant sources as well as the significance of indoor air quality.
 
-
+![image alt](https://github.com/rivanchandraroy/Home-project/blob/main/Monthly-Seasonal%20Pattern.png?raw=true)
 Our Work and Methodology
 •	Established a low-cost air quality monitoring network across 10 residential locations in Dhaka, equipped with indoor and outdoor sensors.
 •	Conducted continuous monitoring of PM₂.₅, Black Carbon (BC), and Ultrafine Particles (UFPs) for 1.5 years to capture long-term trends.
