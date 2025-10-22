@@ -1,4 +1,4 @@
-# 🏙️ Indoor–Outdoor Air Quality Monitoring in  Dhaka
+# Indoor–Outdoor Air Quality Monitoring in  Dhaka
 
 ### Understanding Particulate Matter Dynamics Using Low-Cost Sensor Networks at households of Dhaka
 
@@ -10,20 +10,20 @@ Air pollution is one of the most severe environmental and public health challeng
 
 In rapidly developing urban centers like **Dhaka, Bangladesh**, concentrations of **fine particulate matter (PM₂.₅)**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** often exceed safe limits by several folds, posing severe risks to human health.  
 
-### Major Sources of Pollutants
+### 1.1 Major Sources of Pollutants
 1. Vehicular emissions  
 1. Industrial processes  
 1. Biomass burning  
 1. Household combustion activities  
 
 Despite the focus on outdoor pollution, **indoor air quality (IAQ)** remains a **neglected dimension** of air pollution research.  
-Since people spend nearly **90% of their time indoors**, exposure to indoor pollutants can be even more detrimental — particularly in poorly ventilated homes where emissions from **cooking**, **smoking**, and **indoor sources** accumulate.
+Since people spend nearly **90% of their time indoors**, exposure to indoor pollutants can be even more detrimental particularly in poorly ventilated homes where emissions from **cooking**, **smoking**, and **indoor sources** accumulate.
 
 Moreover, outdoor pollutants infiltrate indoor spaces, creating **complex interactions** that significantly affect total exposure levels.
 
 ---
 
-### 🔬 Figure 1. Summary of PM<sub>2.5</sub> concentrations
+### Figure 1. Summary of PM<sub>2.5</sub> concentrations
 ![Summary of Analysis](https://github.com/rivanchandraroy/Home-project/blob/main/Summary%20of%20Analysis.png?raw=true)
 
 ---
@@ -34,7 +34,7 @@ Seasonal and diurnal variations are analyzed to provide evidence about pollutant
 
 ---
 
-### 🔬 Figure 2. Monthly and Seasonal Pattern of PM<sub>2.5</sub> Concentrations
+### Figure 2. Monthly and Seasonal Pattern of PM<sub>2.5</sub> Concentrations
 ![Monthly and Seasonal Pattern](https://github.com/rivanchandraroy/Home-project/blob/main/Monthly-Seasonal%20Pattern.png?raw=true)
 
 ---
@@ -42,18 +42,16 @@ Seasonal and diurnal variations are analyzed to provide evidence about pollutant
 ## 2. Our Work and Methodology
 
 ### 2.1 Project Overview
-- Established a **low-cost air quality monitoring network** across **10 residential locations** in Dhaka, equipped with **indoor and outdoor sensors**.
-- Conducted **continuous monitoring** of **PM₂.₅**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** for **1.5 years** to capture long-term trends.
-- Performed **data curation and quality control**, including completeness checks, calibration, and outlier removal to ensure reliable datasets.
+A **low-cost air quality monitoring network** was established across **10 residential locations** in Dhaka, equipped with **indoor and outdoor sensors**.
+Conducted **continuous monitoring** of **PM₂.₅**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** for **1.5 years** to capture long-term trends.
+Performed **data curation and quality control**, including completeness checks, calibration, and outlier removal to ensure reliable datasets.
 
 ---
 
 ### 2.2 Analytical Approach
-- Carried out **statistical analyses** such as:
-  - Temporal variation  
-  - Seasonal comparison  
-  - Correlation studies to identify pollution patterns  
-- Estimated **infiltration factors** to evaluate how outdoor pollutants influence indoor air quality.
+Various **statistical analyses** like temporal variation, sesonal comparison and Correlation studies to identify pollution patterns was performed.
+
+Estimated **infiltration factors** to evaluate how outdoor pollutants influence indoor air quality.
 
 ---
 
@@ -74,7 +72,7 @@ To provide a **data-driven understanding** of **indoor–outdoor air interaction
 
 ---
 
-### 🔬 Figure 3. Correlation Between Indoor and Outdoor PM₂.₅
+### Figure 3. Correlation Between Indoor and Outdoor PM₂.₅
 ![Correlation of Indoor and Outdoor PM2.5](https://github.com/rivanchandraroy/Home-project/blob/main/Corelation%20of%20indoor%20and%20outdoor%20PM2.5.png?raw=true)
 
 ---
