@@ -1,4 +1,4 @@
-# Characterization of Particulate Matter in Indoor Environment
+# Characterization of Fine Particulate Matter in Indoor Environment
 
 ### Understanding the Seasonality, Spatiotemporal Variation, Infiltration impact, and Health Impact of Fine Particulate Matter(PM2.5) in Residential Area of Dhaka, Metropolitan Area. 
 
