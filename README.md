@@ -6,15 +6,15 @@
 
 ## 1. Background
 
-Air pollution is one of the most severe environmental and public health challenges of our time, contributing to over **8 million premature deaths** globally each year ([WHO, 2021](#citation)).  
-
-In rapidly developing urban centers like **Dhaka, Bangladesh**, concentrations of **fine particulate matter (PM₂.₅)**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** often exceed safe limits by several folds, posing severe risks to human health.  
+Air pollution is one of the most severe environmental and public health challenges of our time, contributing to over **8 million premature deaths** globally each year ([WHO, 2021](#citation)). In rapidly developing urban centers like **Dhaka, Bangladesh**, concentrations of **fine particulate matter (PM₂.₅)**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** often exceed safe limits by several folds, posing severe risks to human health.  
 
 ### 1.1 Major Sources of Pollutants
-1. Vehicular emissions  
-1. Industrial processes  
-1. Biomass burning  
-1. Household combustion activities  
+1. Vehicular emissions
+2. Cooking activities
+3. Smoking & mosquito coils
+4. Cleaning and personal care products 
+5. Biomass burning  
+6. Household combustion activities etc.
 
 Despite the focus on outdoor pollution, **indoor air quality (IAQ)** remains a **neglected dimension** of air pollution research.  
 Since people spend nearly **90% of their time indoors**, exposure to indoor pollutants can be even more detrimental particularly in poorly ventilated homes where emissions from **cooking**, **smoking**, and **indoor sources** accumulate.
