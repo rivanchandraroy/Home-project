@@ -1,6 +1,6 @@
-# Indoor–Outdoor Air Quality Monitoring in  Dhaka
+# Characterization of Particulate Matter in Indoor Environment
 
-### Understanding Particulate Matter Dynamics Using Low-Cost Sensor Networks at households of Dhaka
+### Understanding the Seasonality, Spatiotemporal Variation, Infiltration impact, and Health Impact of Fine Particulate Matter(PM2.5) in Residential Area of Dhaka, Metropolitan Area. 
 
 ---
 
